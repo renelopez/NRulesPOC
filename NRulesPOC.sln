@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NRulesPOC", "NRulesPOC\NRulesPOC.csproj", "{B594EB60-8B2F-4F07-BC01-6C99699F5D3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{65A772F7-0A71-4372-B0EC-187C611DCFFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rules", "Rules\Rules.csproj", "{CC1387BC-D58E-4450-B6A9-4E9D00306C08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B594EB60-8B2F-4F07-BC01-6C99699F5D3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B594EB60-8B2F-4F07-BC01-6C99699F5D3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B594EB60-8B2F-4F07-BC01-6C99699F5D3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B594EB60-8B2F-4F07-BC01-6C99699F5D3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65A772F7-0A71-4372-B0EC-187C611DCFFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65A772F7-0A71-4372-B0EC-187C611DCFFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65A772F7-0A71-4372-B0EC-187C611DCFFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65A772F7-0A71-4372-B0EC-187C611DCFFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC1387BC-D58E-4450-B6A9-4E9D00306C08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC1387BC-D58E-4450-B6A9-4E9D00306C08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC1387BC-D58E-4450-B6A9-4E9D00306C08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC1387BC-D58E-4450-B6A9-4E9D00306C08}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9399E001-DA5A-45FF-AE38-D188E39E90C5}
+	EndGlobalSection
+EndGlobal
